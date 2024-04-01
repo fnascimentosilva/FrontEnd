@@ -31,3 +31,19 @@ function calcularImpostoRenda(salario){
     }
     return inss
     }
+    
+    function calcularSalarioLiquido(salario, irs, inss){
+        
+        var salarioLiquido = 0
+        
+        return salarioLiquido = salario - irs - inss
+        
+    }
+    
+    var salario = prompt("Insira o valor do salario a ser calculado: ")
+    
+    var impostoRenda = calcularImpostoRenda(salario)
+    var inss = calcularInss(salario)
+    var salarioLiquido = calcularSalarioLiquido(salario, impostoRenda, inss)
+    
+    console.log(salarioLiquido)
