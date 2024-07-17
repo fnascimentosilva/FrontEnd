@@ -8,6 +8,7 @@ body {
   background-attachment:fixed;
   background-size:  auto auto;
   background-position: top;
+  box-sizing: border-box;
  
 }
 
@@ -48,4 +49,38 @@ header h3{
     padding: 15px;
     background-color: #000;
     border-bottom: 5px solid #fff;
+}
+
+section{
+    background-color: #c0c5c5;
+    margin: 150px auto;
+    padding: 10px;
+}
+
+section article{
+    background-color: #fff;
+    width: 80%;
+    margin: 10px auto;
+    padding: 5px;
+    display: block;
+   
+}
+section article h3{
+    background-color: #c0c5c5;
+    margin: 5px;
+    padding: 10px; 
+   
+}
+
+article p a{
+    color: #000;
+    background-color: #6e6969;
+    margin: 5px;
+    padding: 10px; 
+}
+
+footer{
+    text-align: center;
+    background-color: #6e6969;
+    padding: 5px;
 }
