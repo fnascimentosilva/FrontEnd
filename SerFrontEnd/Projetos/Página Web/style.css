@@ -1,0 +1,51 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 100%;
+  margin: auto;
+
+  background-image: url(./images/bg-3.jpg);
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  background-size:  auto auto;
+  background-position: top;
+ 
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+nav ul{
+    text-align: right;
+    margin-right: 50px;
+    
+}
+
+nav li{
+    display: inline-block;
+    background-color: #6e6969;
+    padding: 10px;
+    margin-right: 10px;
+    box-sizing: border-box;
+    border: 2px solid #fff;      
+
+}
+
+h1{
+    text-align: center;
+    color: #fff;
+    font-size: 35px;
+    margin-top: 60px;
+    
+}
+
+header h3{
+    width: 35%;
+    text-align: center;
+    color: #fff;
+    margin: 60px auto;
+    padding: 15px;
+    background-color: #000;
+    border-bottom: 5px solid #fff;
+}
