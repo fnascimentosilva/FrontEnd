@@ -1,1 +1,16 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+  margin: auto;
+}
+
+.banner {
+  background-image: url(../images/bg-3.jpg);
+  height: 500px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: right center;
+}
+
 
