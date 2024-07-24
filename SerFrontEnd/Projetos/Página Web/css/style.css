@@ -13,4 +13,13 @@
   background-position: right center;
 }
 
+.banner-content {
+    margin: 200px auto;
+    text-align: center;
+  }
 
+  .banner-content h1{
+    color: #ccc;
+    text-shadow: 5px 5px black;
+    font-size: 50px;
+  }
