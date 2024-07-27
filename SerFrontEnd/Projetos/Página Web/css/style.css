@@ -2,6 +2,7 @@
   font-family: Arial, Helvetica, sans-serif;
   box-sizing: border-box;
   margin: auto;
+  text-decoration: none;
 }
 
 .banner {
@@ -11,6 +12,10 @@
   background-attachment: fixed;
   background-size: cover;
   background-position: right center;
+}
+
+.banner li{
+display: inline-block;
 }
 
 .banner-content {
