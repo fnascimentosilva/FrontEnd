@@ -14,26 +14,41 @@
   background-position: right center;
 }
 
-.banner li{
-display: inline-block;
+.banner ul {
+  text-align: right;
+  margin-right:50px;
+}
+
+.banner li {
+  display: inline-block;
+  background-color: #867e7e;
+  padding: 10px;
+  margin-top: 30px;
+  margin-right: 10px;
+  border: 2px solid #ccc;
+  
+}
+
+.banner a{
+  color: #ccc;
 }
 
 .banner-content {
-    margin: 200px auto;
-    text-align: center;
-  }
+  margin: 200px auto;
+  text-align: center;
+}
 
-  .banner-content h1{
-    color: #ccc;
-    text-shadow: 5px 5px black;
-    font-size: 50px;
-  }
+.banner-content h1 {
+  color: #ccc;
+  text-shadow: 5px 5px black;
+  font-size: 50px;
+}
 
-  .banner-content p{
-    color: #ccc;
-    background-color: black;
-    font-size: 20px;
-    margin: 20px 500px;
-    padding: 10px;
-    border-bottom: 5px solid;
-  }
+.banner-content p {
+  color: #ccc;
+  background-color: black;
+  font-size: 20px;
+  margin: 20px 500px;
+  padding: 10px;
+  border-bottom: 5px solid;
+}
