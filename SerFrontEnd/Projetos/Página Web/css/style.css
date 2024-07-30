@@ -4,6 +4,9 @@
   margin: auto;
   text-decoration: none;
 }
+body{
+  background-color: #d9d5d5;
+}
 
 .banner {
   background-image: url(../images/bg-3.jpg);
@@ -53,15 +56,33 @@
   border-bottom: 5px solid;
 }
 
-.cursos{
-  background-color: #bdb8b8;
-}
 
-.cursos section{
-  background-color: #fff;
-}
+
+
 
 .description{
-  margin: 20px;
+  width: 80%;
+  height: 200px;
   background-color: black;
+  margin: auto;
+
+  
+}
+
+/* .description div{
+  margin: 50px;
+} */
+
+.description header{
+  background-color: #e0dddd;
+  padding: 5px;
+  /* margin: 10px; */
+}
+
+.description p{
+  background-color: orange;
+}
+
+.description a{
+  background-color: orangered;
 }
