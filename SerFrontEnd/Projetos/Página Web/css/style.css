@@ -56,33 +56,9 @@ body{
   border-bottom: 5px solid;
 }
 
-
-
-
-
-.description{
-  width: 80%;
-  height: 200px;
-  background-color: black;
-  margin: auto;
-
-  
+main{
+  background-color: red;
 }
 
-/* .description div{
-  margin: 50px;
-} */
 
-.description header{
-  background-color: #e0dddd;
-  padding: 5px;
-  /* margin: 10px; */
-}
 
-.description p{
-  background-color: orange;
-}
-
-.description a{
-  background-color: orangered;
-}
