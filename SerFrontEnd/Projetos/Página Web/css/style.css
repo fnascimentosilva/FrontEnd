@@ -36,6 +36,10 @@ body{
   color: #fff;
 }
 
+.banner a:hover{
+  color: aqua;
+}
+
 .banner-content {
   margin: 200px auto;
   text-align: center;
