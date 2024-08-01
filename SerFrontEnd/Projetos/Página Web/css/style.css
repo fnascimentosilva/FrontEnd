@@ -57,7 +57,37 @@ body{
 }
 
 main{
-  background-color: red;
+  background-color: #d3d0d0;
+}
+
+
+
+.description{
+  width: 80%;
+  height: 200px;
+  background-color: #fff;
+  padding: 10px;
+  margin-top: 20px;
+
+}
+
+.description header{
+  background-color: #d3d0d0;
+  padding: 8px;
+  margin-bottom: 10px;
+  border-bottom: 3px solid #a39e9e;
+}
+
+.description p{
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+.description a{
+  background-color: #867e7e;
+  padding: 12px 15px;
+  border-radius: 5px;
+  
 }
 
 
