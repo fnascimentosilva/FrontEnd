@@ -12,18 +12,11 @@ section{
     justify-content: center;
     align-items: center;
     background-color: red;
-    width: 100%;
+    width: 60%;
     height: 100dvh;
 }
 
-.container{
-   
-    background-color: aquamarine;
-    display: flex;
-    gap: 20px;
-    
 
-}
 
 .main-title {
     color: #385555;
