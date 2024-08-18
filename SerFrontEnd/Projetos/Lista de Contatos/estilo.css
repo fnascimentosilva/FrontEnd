@@ -15,15 +15,17 @@ body {
     width: 60%;
     height: 600px;
     position: absolute;
-    left: 50%;
+   /*  left: 50%;
     top: 200px;
+    padding: 100px; */
+    background-color: blue;
     
     
 }
 
 .main-content .informacoes{
     background-color: red;
-    width: 100%;
+   
 }
 
 .main-title {
