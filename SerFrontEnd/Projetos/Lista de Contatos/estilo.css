@@ -63,5 +63,14 @@ body {
     display: flex;
     align-items: center;
     gap: 15px;
+    opacity: 0;
+}
+
+.list-item:hover{
+    background-color: #b7c4c4;
+}
+
+.list-item:hover .list-item__actions{
+    opacity: 1;
 }
 
