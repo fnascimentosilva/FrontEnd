@@ -1,0 +1,8 @@
+body{
+    background-color: aqua;
+    height: 100dvh;
+}
+
+.list{
+    list-style-type: none;
+}
