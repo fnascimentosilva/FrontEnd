@@ -47,6 +47,20 @@ body{
     
 }
 
+.list-item__content{
+text-align: center;
+
+}
+
+.list-item__name{
+
+}
+
+.list-item__actions{
+    background-color: grey;
+    
+}
+
 
 
 .list-item__image img{
