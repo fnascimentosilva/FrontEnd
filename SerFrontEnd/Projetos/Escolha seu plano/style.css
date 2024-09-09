@@ -61,6 +61,7 @@ a.header__nav--active{
     justify-content: space-between;
     align-items: baseline;
     height: 300px;
+    gap: 16px;
     
     
     
@@ -68,7 +69,7 @@ a.header__nav--active{
 
 .plan-features{
     background-color: rgb(44, 39, 39);
-    flex-basis: 310px;
+    flex:1;
     height: 350px;
     border-radius: 5px;
     padding: 30px 30px;
@@ -106,6 +107,7 @@ a.header__nav--active{
 
 .plan-features .plan-benefits li{
     padding-bottom: 5px;
+    
 }
 
 .plan-features a{
