@@ -23,6 +23,7 @@ body{
 }
 
 .header{
+    padding: 46px 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -35,6 +36,27 @@ body{
     color: white;
     font-size: 26px;
 }
+
+
+
+.header__nav ul{
+    display: flex;
+    gap: 16px;
+}
+
+.header__nav a{
+    color: white;
+    padding: 0 16px;
+}
+
+a.header__nav--active{
+    background-color: chartreuse;
+    padding: 16px;
+    border-radius: 6px;
+    color: black;
+}
+
+
 
 
 
