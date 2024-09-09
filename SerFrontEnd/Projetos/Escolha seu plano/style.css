@@ -69,7 +69,7 @@ a.header__nav--active{
 .plan-features{
     background-color: rgb(44, 39, 39);
     flex-basis: 310px;
-    height: 320px;
+    height: 350px;
     border-radius: 5px;
     padding: 30px 30px;
     display: flex;
@@ -96,12 +96,19 @@ a.header__nav--active{
 
 .plan-features .plan-benefits{
     color: chartreuse;
+   
 }
 
 .plan-features .plan-benefits span{
    
     color: rgb(139, 135, 135);
 }
+
+.plan-features .plan-benefits li{
+    padding-bottom: 5px;
+}
+
+
 
 
 
