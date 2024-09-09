@@ -68,11 +68,23 @@ a.header__nav--active{
 
 .plan-features{
     background-color: rgb(44, 39, 39);
-    flex-basis: 315px;
-    height: 300px;
+    flex-basis: 310px;
+    height: 320px;
     border-radius: 5px;
-    padding: 30px 20px;
+    padding: 30px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
 }
+
+.plan-features .plan-type{
+    color: white;
+    border-bottom: 2px solid chartreuse;
+    padding-bottom: 10px;
+}
+
+.plan-features
 
 
 
