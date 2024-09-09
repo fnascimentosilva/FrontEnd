@@ -52,9 +52,29 @@ body{
 a.header__nav--active{
     background-color: chartreuse;
     padding: 16px;
-    border-radius: 6px;
+    border-radius: 5px;
     color: black;
 }
+
+.plan{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    height: 300px;
+    
+    
+    
+}
+
+.plan-features{
+    background-color: rgb(44, 39, 39);
+    flex-basis: 315px;
+    height: 300px;
+    border-radius: 5px;
+    padding: 30px 20px;
+}
+
+
 
 
 
