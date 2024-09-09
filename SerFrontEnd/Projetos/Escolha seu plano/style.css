@@ -84,7 +84,16 @@ a.header__nav--active{
     padding-bottom: 10px;
 }
 
-.plan-features
+.plan-features .plan-price{
+    color: white;
+
+}
+
+.plan-features .plan-price span{
+    font-size: 30px;
+
+}
+
 
 
 
