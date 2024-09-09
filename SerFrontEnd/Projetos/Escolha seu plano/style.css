@@ -108,6 +108,14 @@ a.header__nav--active{
     padding-bottom: 5px;
 }
 
+.plan-features a{
+    text-align: center;
+    padding: 10px;
+    background-color: chartreuse;
+    border-radius: 5px;
+    color: black;
+}
+
 
 
 
