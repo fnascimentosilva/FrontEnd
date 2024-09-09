@@ -94,6 +94,15 @@ a.header__nav--active{
 
 }
 
+.plan-features .plan-benefits{
+    color: chartreuse;
+}
+
+.plan-features .plan-benefits span{
+   
+    color: rgb(139, 135, 135);
+}
+
 
 
 
